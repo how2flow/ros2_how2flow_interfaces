@@ -1,0 +1,6 @@
+# Request
+int8 p1
+int8 p2
+---
+# Response
+int8 state
